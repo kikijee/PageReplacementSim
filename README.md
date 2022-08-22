@@ -7,7 +7,7 @@ aswell as the time taken to execute a given algorithm. <br/><br/>
 ### How to run:
 ***Important, the executing command requires two integer values from user first int, page size must be a number of power of 2
 between 256 (2^8) and 8192 (2^13) bytes inclusively. Second int the physical memory size is also a
-power of 2 between 4 MB (2^22) and 64 MB (2^26). Examples shown below.*** <br/><br/>
+power of 2 between 4 MB (2^22) and 64 MB (2^26) inclusively. Examples shown below.*** <br/><br/>
 **Windows:** <br/>
 &nbsp;To Compile: <br/>
 ``` .\build.bat ```<br/>
